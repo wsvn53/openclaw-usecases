@@ -150,7 +150,7 @@
 | 115 | LinkedIn 帖子优化 | 优化 LinkedIn 帖子格式和内容 | [foxessellfaster](https://www.foxessellfaster.com/blog/openclaw-use-cases-directory/) |
 | 116 | 社区管理 | 管理 Discord/Slack 社区日常 | [foxessellfaster](https://www.foxessellfaster.com/blog/openclaw-use-cases-directory/) |
 | 117 | LinkedIn 冷外联 | 自动化 LinkedIn 冷启动外联 | [foxessellfaster](https://www.foxessellfaster.com/blog/openclaw-use-cases-directory/) |
-| 118 | X 账号分析 | 定性分析 X 账号表现 | [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/x-account-analysis.md) |
+| 118 | X 账号分析 | 定性分析 X 账号表现，可用 [TweetClaw](https://github.com/Xquik-dev/tweetclaw) 搜索推文/回复、导出粉丝、监控账号并生成待审批回复草稿 | [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/x-account-analysis.md) |
 | 119 | Reddit 监控+辩论 | 监控 Reddit 用有来源论据参与讨论 | [Reddit r/openclaw](https://www.reddit.com/r/openclaw/search/?q=In+1+sentence+useful&sort=top&t=all) |
 | 120 | LinkedIn GTM 替代 $200K SDR | 全自动 LinkedIn 外联 (1,367 likes) | [X @TheMattBerman](https://x.com/search?q=from%3ATheMattBerman%20openclaw%20%24200K%20GTM&f=top) |
 | 121 | 两 Agent TikTok 建产品+推广 | 一个建产品一个做 TikTok 推广 | [X @TukiFromKL](https://x.com/search?q=from%3ATukiFromKL%20openclaw%20tiktok&f=top) |
